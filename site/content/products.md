@@ -1,9 +1,9 @@
 ---
-title: Our Coffee
+title: Meie kohvi
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: Pakkumised
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -18,7 +18,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/flamingod0001.jpeg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -99,4 +99,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
